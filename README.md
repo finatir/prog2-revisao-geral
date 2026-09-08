@@ -1,1 +1,1 @@
-# prog2-revis-o-geral
+# prog2-revisao-geral
