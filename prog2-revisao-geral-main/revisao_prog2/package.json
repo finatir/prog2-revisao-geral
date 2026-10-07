@@ -1,0 +1,7 @@
+{
+  "name": "revisao-programacao-ii",
+  "private": true,
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
